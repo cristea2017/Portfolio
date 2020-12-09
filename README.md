@@ -5,6 +5,11 @@
 <a href="https://github.com/cristea2017"><img src="https://img.shields.io/badge/gitHub-@cristea2017-FCA121.svg?style=for-the-badge&logo=github&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;
 
 
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 JS, swift, 
+
 
 
 ## Table Of Content's :
